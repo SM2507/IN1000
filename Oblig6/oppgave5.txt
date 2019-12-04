@@ -1,0 +1,10 @@
+"""
+Oppgave 5: Objektorientert programmering: Viktige begreper
+"""
+A. linje 1
+B. linje 19
+C. linje 3
+D. linje 7
+E. linje 2
+F. linje 25
+G. linje 2
