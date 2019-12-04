@@ -24,15 +24,6 @@ for i in range(len(bokstavteller(setning))):  # Printer hvilke ord som finnes og
     print("Ordet {} forekommer {} gang(er) i setningen din, og har {} bokstaver".format\
 (setning.split(" ")[i], a[setning.split(" ")[i]], antallbokstaver(setning.split(" ")[i])))
 
-"""
-Skriv inn setning:
-Amalie har fire katter !
-Det er 5 ord i setningen din.
-Ordet Amalie forekommer 1 gang(er) i setningen din, og har 6 bokstaver
-Ordet har forekommer 1 gang(er) i setningen din, og har 3 bokstaver
-Ordet fire forekommer 1 gang(er) i setningen din, og har 4 bokstaver
-Ordet katter forekommer 1 gang(er) i setningen din, og har 6 bokstaver
-Ordet ! forekommer 1 gang(er) i setningen din, og har 1 bokstaver
-"""
+
 
 
